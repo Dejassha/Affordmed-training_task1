@@ -1,0 +1,46 @@
+.bg{
+    background-image:linear-gradient(to right,rgb(41, 94, 174),rgb(4, 82, 142));
+    color: white;
+    padding: 50px;
+}
+i{
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 5px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    padding-top: 8px;
+}
+.container-fluid {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+}
+.b{
+    color:white !important;
+    background-color:rgb(12, 233, 225) !important;
+    border-radius: 20px !important;
+    border-color:rgb(12, 233, 225) !important ;
+}
+.ul li a{
+    color: white !important;
+}
+.head{
+    font-size: 50px;
+    font-weight: bold;
+}
+.body{
+    font-size: 40px;
+}
+li{
+    font-size: 20px;
+}
+.image{
+    height: 500px;
+    width: 700px;
+    margin: 50px;
+}
